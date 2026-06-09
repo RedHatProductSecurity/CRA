@@ -41,5 +41,5 @@ We regularly perform patch releases for the supported latest version `<!-- Link 
 This project is stewarded by **Red Hat, Inc.**, an open source software steward as defined in Article 3(14) of the [EU Cyber Resilience Act (Regulation 2024/2847)](https://eur-lex.europa.eu/eli/reg/2024/2847/oj/eng).   
 Contact: cra-steward@redhat.com
 
-Refer to `<!-- link to Red Hat's overarching vulnerability management policy -->`  for detailed information.
+Refer to [Red Hat's security practices and vulnerability management policy](https://access.redhat.com/security/) for detailed information.
 
