@@ -9,7 +9,7 @@ To help us triage and resolve the issue efficiently, please include the followin
 - **Title**: A concise, descriptive summary of the issue.
 - **Reporter Details**: Your name/handle and affiliation.
 - **Technical Description**: Detailed information regarding the vulnerability.
-- **Affected Versions:** The specific version(s) or range(s) of software tested.
+- **Affected Versions**: The specific version(s) or range(s) of software tested.
 - **Reproduction Steps**: A minimal, functional example to reproduce the issue.
 - **Impact Assessment**: Potential exploit scenarios and perceived severity. (optional)
 - **Suggested Fix**: Any proposed patches or mitigations (optional).
