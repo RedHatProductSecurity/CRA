@@ -34,7 +34,7 @@ Direct all security questions and vulnerability reports to:
 
 ## **Supported Versions**
 
-We regularly perform patch releases for the supported latest version `<!-- Link to the latest version/build location/latest tag>`, which contains fixes for relevant security vulnerabilities and important bugs. Prior releases might receive critical security fixes on a best-effort basis. However, we cannot guarantee that security fixes will get back-ported to these unsupported versions, unless stated otherwise in our support  matrix \<\!-- Link/text to the actual support matrix\>
+We regularly perform patch releases for the supported latest version `<!-- Link to the latest version/build location/latest tag -->`, which contains fixes for relevant security vulnerabilities and important bugs. Prior releases might receive critical security fixes on a best-effort basis. However, we cannot guarantee that security fixes will get back-ported to these unsupported versions, unless stated otherwise in our support  matrix `<!-- Link/text to the actual support matrix. -->`
 
 ## **EU Cyber Resilience Act — Open Source Steward Statement**
 
