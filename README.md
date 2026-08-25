@@ -35,7 +35,7 @@ The template already includes the required **EU Cyber Resilience Act — Open So
 
 ## Projects Under Red Hat CRA Stewardship
 
-Red Hat has formally identified itself as an Open Source Software Steward for the following projects:
+As of September 2026, Red Hat has formally identified itself as an Open Source Software Steward. The list below is not exhaustive — the following projects were selected for the initial pilot:
 
 | Project | Repository |
 |---------|------------|
