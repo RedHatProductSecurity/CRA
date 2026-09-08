@@ -59,9 +59,11 @@ For questions about the ENISA Single Reporting Platform (SRP), including how the
 <details>
 <summary>6. When does the CRA start applying?</summary>
 
-> The CRA entered into force on 10 December 2024. Most obligations apply from **11 December 2027**, including essential cybersecurity requirements and conformity assessment. However, reporting obligations for actively exploited vulnerabilities and severe incidents apply earlier, from **11 September 2026**.
+> The CRA entered into force on 10 December 2024. Most obligations apply from **11 December 2027**, including essential cybersecurity requirements and conformity assessment.
+
+However, reporting obligations for actively exploited vulnerabilities and severe incidents apply earlier, depending on the entity.  For Manufacturers the obligations apply from **11 September 2026**; for Open Source Software Stewards the obligations apply from **11 December 2027**.
 >
-> **Note:** There is no retroactive reporting obligation. Manufacturers and stewards are not required to report actively exploited vulnerabilities they were already aware of before 11 September 2026. The obligation applies only where active exploitation is newly discovered, or the manufacturer/steward newly becomes aware of it, on or after that date. (See Commission guidance C(2026) 5252 final, point 217.)
+> **Note:** There is no retroactive reporting obligation. Manufacturers and stewards are not required to report actively exploited vulnerabilities they were already aware of before their obligation to report began. The obligation applies only where active exploitation is newly discovered, or the manufacturer/steward newly becomes aware of it, on or after that date. (See Commission guidance C(2026) 5252 final, point 217.)
 
 </details>
 
