@@ -85,7 +85,9 @@ However, reporting obligations for actively exploited vulnerabilities and severe
 <details>
 <summary>8. Do I have to report every CVE to the SRP?</summary>
 
-> No. Only **actively exploited vulnerabilities** and **severe incidents** require mandatory reporting. A CVE that exists in your code but is not being actively exploited in the wild is not reportable under the CRA. Similarly, a vulnerability appearing in public catalogues (e.g., CISA KEV or ENISA EUVD) does not by itself trigger a reporting obligation — there must be reliable evidence of actual malicious exploitation.
+> No. Only **actively exploited vulnerabilities** and **severe incidents** require mandatory reporting. A CVE that exists in your code but is not being actively exploited in the wild is not reportable under the CRA.
+
+The fact that a vulnerability appears in public catalogues (e.g., CISA KEV or ENISA EUVD) does not by itself trigger a reporting obligation — but does indicate that exploitation is likely and should be investigated.
 
 </details>
 
