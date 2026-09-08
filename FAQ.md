@@ -157,6 +157,8 @@ For questions about the ENISA Single Reporting Platform (SRP), including how the
 <summary>17. Why does my project need a SECURITY.md?</summary>
 
 > A SECURITY.md file tells vulnerability reporters and users how to responsibly disclose security issues to your project. It is part of establishing a documented cybersecurity policy, which the CRA requires stewards to put in place and document. It also includes the CRA steward statement identifying your steward, meeting transparency requirements.
+>
+> This file should be placed in the root directory of your project's source code repository.
 
 </details>
 
