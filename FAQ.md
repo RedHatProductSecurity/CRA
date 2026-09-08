@@ -59,9 +59,11 @@ For questions about the ENISA Single Reporting Platform (SRP), including how the
 <details>
 <summary>6. When does the CRA start applying?</summary>
 
-> The CRA entered into force on 10 December 2024. Most obligations apply from **11 December 2027**, including essential cybersecurity requirements and conformity assessment. However, reporting obligations for actively exploited vulnerabilities and severe incidents apply earlier, from **11 September 2026**.
+> The CRA entered into force on 10 December 2024. Most obligations apply from **11 December 2027**, including essential cybersecurity requirements and conformity assessment.
 >
-> **Note:** There is no retroactive reporting obligation. Manufacturers and stewards are not required to report actively exploited vulnerabilities they were already aware of before 11 September 2026. The obligation applies only where active exploitation is newly discovered, or the manufacturer/steward newly becomes aware of it, on or after that date. (See Commission guidance C(2026) 5252 final, point 217.)
+> However, reporting obligations for actively exploited vulnerabilities and severe incidents apply earlier, depending on the entity.  For Manufacturers the obligations apply from **11 September 2026**; for Open Source Software Stewards the obligations apply from **11 December 2027**.
+>
+> **Note:** There is no retroactive reporting obligation. Manufacturers and stewards are not required to report actively exploited vulnerabilities they were already aware of before their obligation to report began. The obligation applies only where active exploitation is newly discovered, or the manufacturer/steward newly becomes aware of it, on or after that date. (See Commission guidance C(2026) 5252 final, point 217.)
 
 </details>
 
@@ -83,7 +85,9 @@ For questions about the ENISA Single Reporting Platform (SRP), including how the
 <details>
 <summary>8. Do I have to report every CVE to the SRP?</summary>
 
-> No. Only **actively exploited vulnerabilities** and **severe incidents** require mandatory reporting. A CVE that exists in your code but is not being actively exploited in the wild is not reportable under the CRA. Similarly, a vulnerability appearing in public catalogues (e.g., CISA KEV or ENISA EUVD) does not by itself trigger a reporting obligation — there must be reliable evidence of actual malicious exploitation.
+> No. Only **actively exploited vulnerabilities** and **severe incidents** require mandatory reporting. A CVE that exists in your code but is not being actively exploited in the wild is not reportable under the CRA.
+>
+> The fact that a vulnerability appears in public catalogues (e.g., CISA KEV or ENISA EUVD) does not by itself trigger a reporting obligation — but does indicate that exploitation is likely and should be investigated.
 
 </details>
 
@@ -153,6 +157,8 @@ For questions about the ENISA Single Reporting Platform (SRP), including how the
 <summary>17. Why does my project need a SECURITY.md?</summary>
 
 > A SECURITY.md file tells vulnerability reporters and users how to responsibly disclose security issues to your project. It is part of establishing a documented cybersecurity policy, which the CRA requires stewards to put in place and document. It also includes the CRA steward statement identifying your steward, meeting transparency requirements.
+>
+> This file should be placed in the root directory of your project's source code repository.
 
 </details>
 
