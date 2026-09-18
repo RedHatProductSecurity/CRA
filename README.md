@@ -13,7 +13,7 @@ Red Hat fulfills this steward role for a number of open source projects, accepti
 | Path | Description |
 |------|-------------|
 | `Templates/Security_MD_template.md` | Template `SECURITY.md` for CRA-stewarded projects |
-| `Guidelines/eu-cra-incident-and-vulnerability-reporting-guidelines.md` | Guidelines for stewarded projects on reporting actively exploited vulnerabilities and severe incidents to Red Hat |
+| `Guidelines/eu-cra-incident-and-vulnerability-reporting-guidelines-for-stewarded-projects.md` | Guidelines for stewarded projects on reporting actively exploited vulnerabilities and severe incidents to Red Hat |
 
 ## Using the Templates
 
